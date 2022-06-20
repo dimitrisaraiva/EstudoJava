@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"fundamentos","c":"NumerosAleatorios","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"fundamentos","c":"NumerosAleatorios","l":"NumerosAleatorios()","u":"%3Cinit%3E()"}];updateSearchResults();
